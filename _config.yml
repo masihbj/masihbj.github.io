@@ -291,8 +291,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Banijamali]
+  first_name: [Seyed Masih, S. M.]
 
   style: apa
   locale: en
