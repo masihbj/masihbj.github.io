@@ -22,9 +22,20 @@ Before joining *LMRG*, I obtained my Master’s in Mechanical Engineering from [
 
 Outside of work, I engage in some hobbies to maintain a balanced lifestyle. Regular workouts at the gym, an interest in photography and logo designing, along with a fondness for Music and TV Shows, are among my favorite leisure activities.
 
-<div class="warning" style='background-color:#F3D7F2; color: #000000; border-left: solid #B509AC 4px; border-radius: 4px; padding:0.7em;'>
-<span>
-<p style='margin-top:1em; margin-left:1em; text-align:center'>
-Actively looking for <b>Research Collaboration</b> in Microstructure and Wear of Materials and Composites. <b>I am greatly enthusiastic about participating in shared tasks and welcome opportunities to collaborate on research projects.</b> Please feel free to <a href="mailto:banijamali.masih@gmail.com">contact me</a> if we might have common interests.
-</p></span>
+<div
+  class="warning"
+  style="background-color: #f3d7f2; color: #69337a; border-left: solid #b509ac 4px; border-radius: 4px; padding: 0.7em;"
+>
+  <span>
+    <p style="margin-top: 1em; margin-left: 1em; text-align: center;">
+      Actively looking for <b>Research Collaboration</b> in Microstructure and Wear of Materials and Composites.
+    </p>
+    <p>
+      I am greatly enthusiastic about participating in shared tasks and welcome opportunities to collaborate on research
+      projects.
+    </p>
+    <p>
+      Please feel free to <a href="mailto:banijamali.masih@gmail.com">contact me</a> if we might have common interests.
+    </p>
+  </span>
 </div>
