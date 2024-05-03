@@ -25,6 +25,6 @@ Outside of work, I engage in some hobbies to maintain a balanced lifestyle. Regu
 <div class="warning" style='background-color:#F3D7F2; color: #000000; border-left: solid #B509AC 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; margin-left:1em; text-align:center'>
-Actively looking for <b>Research Collaboration<b> in Microstructure and Wear of Materials and Composites. <b>I am greatly enthusiastic about participating in shared tasks and welcome opportunities to collaborate on research projects.<b> Please feel free to [contact me](mailto:banijamali.masih@gmail.com) if we might have common interests.
+Actively looking for <b>Research Collaboration</b> in Microstructure and Wear of Materials and Composites. <b>I am greatly enthusiastic about participating in shared tasks and welcome opportunities to collaborate on research projects.</b> Please feel free to <a href="mailto:banijamali.masih@gmail.com">contact me</a> if we might have common interests.
 </p></span>
 </div>
