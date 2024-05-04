@@ -21,7 +21,7 @@ I am interested in interdisciplinary research projects at the border between Mec
 
 <blockquote style="font-size: 0.9rem;">
   <i class="fa fa-bullhorn" aria-hidden="true"></i>
-  Actively looking for <b>Research Collaboration</b> in <code>Materials Tribology</code> and related topics.</br>
+  Actively looking for <b>Research Collaboration</b> in Materials Tribology and related topics.<br>
   Open to joint projects and shared interests. To connect, please
   <a href="mailto:banijamali.masih@gmail.com">contact me</a> .
 </blockquote>
