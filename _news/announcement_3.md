@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I was recognized as an **Outstanding Alumnus** in the *Contact Mechanics and Elements of Tribology* course held at MINES Paris - PSL. <a href="/assets/pdf/Diploma_CMET.pdf" target="_blank">(Certificate of Excellence)</a>
