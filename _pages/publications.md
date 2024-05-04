@@ -2,9 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: An up-to-date list is available on Google Scholar
+description:
 nav: true
 nav_order: 2
+title_link: https://scholar.google.com/citations?user=YmHEJCoAAAAJ&hl=en
+title_icon: ai ai-google-scholar
 ---
 
 <!-- _pages/publications.md -->
