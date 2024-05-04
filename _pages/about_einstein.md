@@ -1,5 +1,22 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Masih, a graduate researcher motivated by learning new things with a passion for **Solid Mechanics** and **Materials Science**. I am currently a research assistant and a member of *Light Metals Research Group (LMRG)* at [Materials and Energy Research Center (MERC)](https://en.merc.ac.ir/). I do research on `Mechanical` and `Tribological` Performance of `Lightweight Alloys` and `Composites`.
+I am interested in interdisciplinary research projects at the border between Mechanical Engineering, Material Science and Physics, and cultivating a collaborative and knowledge-sharing environment. My journey is driven by the goal of pursuing a PhD in the field and wish to be known as a Tribologist.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<div
+  class="warning"
+  style="
+    background-color: #ffffff;
+    color: #69337a;
+    border-left: solid #b509ac 4px;
+    border-radius: 4px;
+    padding: 0.7em;
+  "
+>
+  <span>
+    <p style="margin-top: 0.8em; margin-left: 0.8em; text-align: justify;">
+      <i class="fa fa-bullhorn" aria-hidden="true"></i>
+      Actively looking for <b>Research Collaboration</b> in Microstructure and Wear of Materials and Composites.<br />
+      I am greatly enthusiastic about participating in shared tasks and welcome opportunities to collaborate on research projects.<br />
+      Please feel free to <a href="mailto:banijamali.masih@gmail.com">contact me</a> if we might have common interests.
+    </p>
+  </span>
+</div>
