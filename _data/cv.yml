@@ -96,13 +96,18 @@
         - Collaborated with other team members to ensure smooth event operations
 
 - title: Honors/Awards
-  type: list
+  type: time_table
   contents:
-    - Offered direct admission to PhD program in Mechanical Engineering at KNTU
-    - Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
-    - Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL.
-    - Achieved IOP Trusted Reviewer status for peer review excellence.
-    - Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc. degree
+    - title: Offered direct admission to PhD program in Mechanical Engineering at KNTU
+      year: 2021
+    - title: Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
+      year: 2016
+    - title: Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL
+      year: 2024
+    - title: Achieved IOP Trusted Reviewer status for peer review excellence.
+      year: 2024
+    - title: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
+      year: 2016
 
 - title: Skills
   type: map
