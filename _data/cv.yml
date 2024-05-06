@@ -70,18 +70,17 @@
         - Maryam Ahmadi-Nouri (MSc thesis) - Investigation of the Effect of Ag Addition on Microstructural Evolution and Wear Behavior of an Mg-Gd-Zn Alloy
     - title: Teaching Assistant
       institution: K. N. Toosi University of Technology (KNTU)
+      department: Advanced Mathematics Course
       year: 2019 - 2020
       description:
-        - title: Advanced Mathematics Course
-          contents:
-            - Conducted weekly recitation sessions for MSc students during office hours
-            - Taught essential MATLAB programming skills to solve complex problems efficiently
-            - Designed and graded course assignments, quizzes, and programming projects
+        - Conducted weekly recitation sessions for MSc students during office hours
+        - Taught essential MATLAB programming skills to solve complex problems efficiently
+        - Designed and graded course assignments, quizzes, and programming projects
 
 - title: Service
   type: nested_list
   contents:
-    - title: Peer Review
+    - title: Journal Reviewer
       items:
         - Wear (since 2022)
         - Applied Mathematical Modelling (since 2022)
@@ -96,18 +95,28 @@
         - Coordinated registration and provided logistical support during the conference
         - Collaborated with other team members to ensure smooth event operations
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Other Interests
+- title: Honors/Awards
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Offered direct admission to PhD program in Mechanical Engineering at KNTU
+    - Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
+    - Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL.
+    - Achieved IOP Trusted Reviewer status for peer review excellence.
+    - Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc. degree
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, Fortran (user subroutine in ABAQUS)
+    - name: Engineering Software
+      value: ABAQUS, MATLAB, SolidWorks, ImageJ
+    - name: Materials Characterization
+      value: Metallography, Mechanical Testing, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, FTIR, AFM and Profilometry
+    - name: Other
+      value: Adobe Photoshop, OriginLab, Inkscape, Microsoft Office, LaTeX
+
+- title: Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Photography, Logo designing, Working out, Hiking, Music
