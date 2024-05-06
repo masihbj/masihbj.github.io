@@ -98,16 +98,16 @@
 - title: Honors/Awards
   type: time_table
   contents:
-    - item: Offered direct admission to PhD program in Mechanical Engineering at KNTU
-      year: 2021
-    - item: Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
-      year: 2016
-    - item: Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL
-      year: 2024
-    - item: Achieved IOP Trusted Reviewer status for peer review excellence.
-      year: 2024
-    - item: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
-      year: 2016
+    - year: 2024
+      description: Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL
+    - year: 2024
+      description: Achieved IOP Trusted Reviewer status for peer review excellence
+    - year: 2021
+      description: Offered direct admission to PhD program in Mechanical Engineering at KNTU
+    - year: 2016
+      description: Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
+    - year: 2016
+      description: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
 
 - title: Skills
   type: map
@@ -121,7 +121,8 @@
     - name: Other
       value: Adobe Photoshop, OriginLab, Inkscape, Microsoft Office, LaTeX
 
-- title: Interests
+- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Photography, Logo designing, Working out, Hiking, Music
+    - <u>Sports:</u> Working out, Hiking, Squash
+    - <u>Hobbies:</u> Traveling, Photography, Logo designing, TV Series
