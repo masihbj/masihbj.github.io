@@ -2,71 +2,81 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Seyed Masih Banijamali
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd December 1991
     - name: Languages
-      value: English, German
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: MSc in Mechanical Engineering
+      institution: K.N. Toosi University of Technology
+      location: Tehran, Iran
+      year: 2016 - 2019
+    - title: BSc in Mechanical Engineering
+      institution: Islamic Azad University, Science and Research Branch
+      location: Tehran, Iran
+      year: 2010 - 2015
+    - title: Master of Business Administration
+      institution: University of Tehran
+      location: Tehran, Iran
+      year: 2018 - 2019
 
-- title: Experience
+- title: Research
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Materials and Energy Research Center (MERC)
+      location: Karaj, Iran
+      year: 2021 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and developed novel alloys and composites with enhanced mechanical properties
+        - Managed lab activities, overseeing materials and equipment procurement and efficient use of resources
+        - Fostered broad networks within and beyond MERC for collaborative and resource-sharing opportunities
+
+    - title: Visiting Research Collaborator
+      institution: Materials and Energy Research Center (MERC)
+      location: Karaj, Iran
+      year: 2019 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Joined Light Metals Research Group (LMRG) as a junior tribologist
+        - Investigated tribological characteristics of materials under different conditions
+        - Gained exposure to materials processing methods, testing tools, characterization techniques, and results analysis
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: K.N. Toosi University of Technology (KNTU)
+      location: Tehran, Iran
+      year: 2017 - 2020
       description:
+        - Analyzed vibration in composite shell structures using analytical and numerical methods
+        - Conducted comprehensive analysis on rotating shell dynamics and lattice structures
+        - Assisted in directing student theses and contributed to the drafting and revising of papers and reports
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Workshop Instructor
+      institution: Materials and Energy Research Center (MERC)
+      year: 2022 - Now
+      description:
+        - Design and lead the "Writing & Publishing a Research Paper" co-curricular workshop (Spring 2023-24)
+        - Design the "Learn Academic Referencing with EndNote/Mendeley" co-curricular workshop (Fall 2022-23)
+    - title: Co-supervised Theses
+      institution: Materials and Energy Research Center (MERC)
+      year: 2023 - Now
+      description: 
+        - Maryam Ahmadi-Nouri (MSc thesis) - Investigation of the Effect of Ag Addition on Microstructural Evolution and Wear Behavior of an Mg-Gd-Zn Alloy
+    - title: Teaching Assistant
+      institution: K. N. Toosi University of Technology (KNTU)
+      year: 2019 - 2020
+      description:
+        - title: Advanced Mathematics Course
+          contents:
+            - Conducted weekly recitation sessions for MSc students during office hours
+            - Taught essential MATLAB programming skills to solve complex problems efficiently
+            - Designed and graded course assignments, quizzes, and programming projects
 
 - title: Honors and Awards
   type: time_table
