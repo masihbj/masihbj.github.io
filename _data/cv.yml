@@ -105,20 +105,20 @@
     - year: 2021
       description: Offered direct admission to PhD program in Mechanical Engineering at KNTU
     - year: 2016
-      description: Awarded a full scholarship for the Master’s program in Mechanical Engineering at KNTU
+      description: Awarded a full scholarship for the Master’s program at KNTU in the Department of Mechanical Engineering
     - year: 2016
       description: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
 
 - title: Skills
   type: map
   contents:
-    - name: Programming
-      value: Python, Fortran (user subroutine in ABAQUS)
-    - name: Engineering Software
-      value: ABAQUS, MATLAB, SolidWorks, ImageJ
-    - name: Materials Characterization
+    - name: Experimental
       value: Metallography, Mechanical Testing, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, FTIR, AFM and Profilometry
-    - name: Other
+    - name: Programming Languages
+      value: MATLAB, Python, Fortran (user subroutine in ABAQUS)
+    - name: Engineering Softwares
+      value: ABAQUS, SolidWorks, ImageJ
+    - name: General Softwares
       value: Adobe Photoshop, OriginLab, Inkscape, Microsoft Office, LaTeX
 
 - title: Other Interests
