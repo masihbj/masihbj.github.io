@@ -5,11 +5,19 @@ title: Publications
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
 <p>An up-to-date list is available on <a href="https://scholar.google.com/citations?user=YmHEJCoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
 
 <div class="publications">
 
-{% bibliography %}
+<h1>Conference &amp; Journal Articles</h1>
+
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+<h1>Theses</h1>
+
+{% bibliography -f thesis %}
 
 </div>
