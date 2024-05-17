@@ -10,7 +10,9 @@ nav_order: 1
 <div class="publications">
 
 <h1>Conference &amp; Journal Articles</h1>
+{% bibliography -f papers -q @article %}
 
-{% bibliography %}
+<h1>Theses</h1>
+{% bibliography -f papers -q @thesis%}
 
 </div>
