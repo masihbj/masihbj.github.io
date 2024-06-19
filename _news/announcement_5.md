@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Maryam Ahmadi-Nouri, a student in our Alloys and Composites Research Group, has successfully completed her thesis defense. It was my pleasure to serve as her mentor during this journey.
+Maryam Ahmadi-Nouri, a student in our Alloys and Composites Research Group, has successfully completed her [thesis](/assets/pdf/AhmadiThesis.pdf) defense. It was my pleasure to serve as her mentor during this journey.
