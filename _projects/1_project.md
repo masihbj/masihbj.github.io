@@ -1,81 +1,29 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Welding Positioner
+description: Mechanical Design and Construction of a Welding Positioner
+img: assets/img/Positioner.tif
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As an R&D Engineer at *MLC*, I contributed to the design and construction of an industrial welding positioner specifically for railway bogie pins. The goal of the project was to enhance the precision and efficiency of welding operations by introducing a mechanical tilt-rotate positioner tailored to handle heavy-duty fabrication tasks.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**The Importance of Welding Positioners**
+Welding positioners are essential in any fabrication shop, providing precision, improving weld quality, and significantly reducing time and costs by minimizing part handling and material waste. Our workshop at MLC already benefited from hydraulic positioners for extra-heavy parts, but there was a need for a mechanical solution to handle the more precise welding of bogie pins. This project focused on developing a dedicated positioner to improve efficiency, reduce costs, and alleviate workloads on the existing hydraulic systems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Positioner.tif" title="Welding Positioner" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Key Project Contributions**
+In this project, I was involved from the initial concept through to the final mechanical design. I worked on designing the tilt-rotate positioner, which allowed for two-axis movement, enabling welders to precisely position workpieces for optimal welding angles. My responsibilities included conducting structural analysis to ensure the frame could support heavy loads, calculating torque requirements to select suitable motors and components, and designing the rotational and tilt mechanisms for smooth and controlled movements. I also developed a clamping system to securely hold workpieces and integrated a control system for precision and safety, incorporating features such as overload protection and emergency stop systems.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+**Achievements and Impact**
+The successful completion of this project resulted in the development of a highly efficient welding positioner tailored to the specific needs of railway bogie pins. This custom-built system has contributed to increased production speed, reduced costs, and improved precision, making our fabrication shop more agile and capable of handling complex welding tasks. As a result, the project had a lasting impact on the workshop’s productivity and overall fabrication capabilities.
