@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: MP610 Engine
+description: Reverse Engineering of MP610 Diesel Engine Components
+img: assets/img/Thumbnail-MP610.jpg
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
