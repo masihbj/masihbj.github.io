@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MP610 Engine
+title: MP610 Diesel Engine
 description: Reverse Engineering of MP610 Diesel Engine Components
 img: assets/img/Thumbnail-MP610.jpg
 importance: 1
@@ -8,74 +8,32 @@ category: work
 giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During my time as an R&D Engineer at MLC, I had the opportunity to work with an experienced team of engineers on the reverse engineering of the MP610 diesel engine. Although my involvement was limited to just over a year, I contributed to a number of stages of the project, which later culminated in the successful unveiling of the first domestically developed locomotive engine in Iran.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The "MP610" diesel engine is the first domestically developed locomotive engine by expert Iranian engineers at MAPNA Industrial Group. This engine was intended to power the first domestically manufactured MAP30 mainline diesel locomotive. On Monday, May 13, 2024, the prototype MP610 diesel engine has been presented to the MAPNA Group’s plant in Alborz Province. Here's a link to further information about this event.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Project Overview** <br>
+The project to reverse-engineer and develop the MP610 diesel engine followed a detailed, multi-phase execution plan designed by the planning and engineering departments, progressing toward mass production. The key phases included:
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/Overview.jpg" title="Project Execution Plan"
+        class="img-fluid rounded z-depth-1 w-50 mx-auto" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Execution plan for reverse engineering of MP610 Engine components
 </div>
+
+**Key Project Contributions** <br>
+My contributions to this project spanned phases 3 to 6, where I played a vital role in ensuring the technical success of the reverse engineering process. Some of my key responsibilities included:
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        {% include figure.liquid loading="eager" path="assets/img/MP610.jpg" title="MP610 Diesel Engine"
+        class="img-fluid rounded z-depth-1 w-75 mx-auto" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Project Summary and Technical Overview.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

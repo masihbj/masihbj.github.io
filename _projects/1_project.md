@@ -21,6 +21,7 @@ Throughout this project, I was involved from the initial concept to the final me
 
 **Achievements and Impact** <br>
 The successful completion of this project resulted in the development of a highly efficient welding positioner tailored to the specific needs of railway bogie pins. This custom-built system has contributed to increased production speed, reduced costs, and improved the overall precision of the welding process. As a result, the project had a lasting positive impact on the workshop’s productivity and overall fabrication capabilities.
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -28,5 +29,5 @@ The successful completion of this project resulted in the development of a highl
     </div>
 </div>
 <div class="caption">
-    Project Summary and Technical Overview developed by M. Banijamali.
+    Project Summary and Technical Overview.
 </div>
