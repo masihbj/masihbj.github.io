@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-During my time as an R&D Engineer at MLC, I had the privilege of working with an experienced team of engineers on the reverse engineering of the MP610 diesel engine. My involvement, though limited to just over a year, allowed me to contribute to some phases of the project and gain valuable insights and experience. This collaborative effort ultimately led to the successful development and unveiling of the first domestically engineered locomotive engine in Iran.
+During my time as an R&D Engineer at *MLC*, I had the privilege of working with an experienced team of engineers on the reverse engineering of the MP610 diesel engine. My involvement, though limited to just over a year, allowed me to contribute to some phases of the project and gain valuable insights and experience. This collaborative effort ultimately led to the successful development and unveiling of the first domestically engineered locomotive engine in Iran.<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -19,6 +19,14 @@ During my time as an R&D Engineer at MLC, I had the privilege of working with an
 <div class="caption">
     Project Summary and Technical Overview.
 </div>
+<style>
+  .caption {
+      margin-top: -10px; /* Adjust this value to control the gap */
+      font-size: 14px; /* Optional: to customize the font size */
+      color: #2c3237; /* Change this to any color you'd like (e.g., hex code, rgb, or named color) */
+      text-align: center; /* Optional: Center the caption */
+  }
+</style>
 
 The **MP610 diesel engine**, designed and developed by expert engineers at the MAPNA Industrial Group, represents a significant milestone in Iran's industrial capabilities. This engine was engineered to power the country's previously manufactured MAP30 mainline diesel locomotive. On Monday, May 13, 2024, the prototype MP610 was officially presented at the MAPNA Group’s manufacturing plant in Alborz Province. <br>
 For more information about the unveiling ceremony, please visit [here](https://mapnagroup.com/38144/mapna-group-unveils-map30-freight-locomotive-mp610-diesel-engine/?lang=en)
