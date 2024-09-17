@@ -28,31 +28,41 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Materials and Energy Research Center (MERC)
-      location: Karaj, Iran
+      institution: AMAs Research Group, Materials and Energy Research Center (MERC)
+      location: Alborz, Iran
       year: 2021 - Now
       description:
-        - Designing and developing novel light alloys and composites with enhanced mechanical performance
-        - ing laboratory activities, overseeing materials and equipment procurement and efficient use of resources
-        - Fostering broad networks within and beyond MERC for collaborative and resource-sharing opportunities
+        - Design and develop novel light alloys and composites with enhanced mechanical and wear properties.
+        - Oversee lab operations, procurement of materials and equipment, data management, and budget planning.
+        - Author and co-author journal articles (4 completed), and contribute to research proposals for securing funding.
 
+    - title: R&D Engineer
+      institution: Engineering Department, MAPNA Locomotive Co. (MLC)
+      location: Alborz, Iran
+      year: 2021 - 2022
+      description:
+        - Colaborated with cross-functional teams on reverse engineering of diesel engine components.
+        - Contributed to the design and construction of an industrial positioner for precision welding of railway bogie pins.
+    
     - title: Visiting Research Collaborator
       institution: Materials and Energy Research Center (MERC)
-      location: Karaj, Iran
+      location: Alborz, Iran
       year: 2019 - 2020
       description:
-        - Joined the Advanced Metal Alloys (AMAs) Group as a junior tribologist
-        - Investigated the tribological characteristics of Mg alloys under various conditions
-        - Gained exposure to materials processing methods, testing tools, characterization techniques, and results analysis
+        - Joined AMAs Research Group to expand ongoing research on magnesium alloys with tribological studies.
+        - Designed and conducted friction and wear experiments on magnesium alloys.
+        - Acquired hands-on experience in materials processing, testing, characterization techniques.
+        - Developed a finite element wear model using Abaqus to simulate pin-on-disc tribotests.
+        - Presented research findings at iMat2019 conference and at internal lab meetings.
 
     - title: Research Assistant
       institution: K.N. Toosi University of Technology (KNTU)
       location: Tehran, Iran
       year: 2017 - 2020
       description:
-        - Analyzed vibration in composite shell structures using analytical and numerical methods
-        - Conducted comprehensive analysis on rotating shell dynamics and lattice structures
-        - Assisted in directing student theses and contributed to the drafting and revising of papers and reports
+        - Developed a unified MATLAB code for accurate vibration analysis of various composite shell geometries.
+        - Applied theoretical and numerical methods to address complex vibration issues in lattice-stiffened rotating shells.
+        - Authored and published 2 peer-reviewed journal articles.
 
 - title: Teaching
   type: time_table
@@ -61,36 +71,40 @@
       institution: Materials and Energy Research Center (MERC)
       year: 2022 - Now
       description:
-        - Designed and led the "Writing & Publishing a Research Paper" co-curricular workshop (Spring 2023-24)
-        - Designed the "Learn Academic Referencing with EndNote/Mendeley" co-curricular workshop (Fall 2022-23)
-    - title: Co-supervised Theses
-      institution: Materials and Energy Research Center (MERC)
-      year: 2022 - 2024
+        - Designed and taught the "Writing & Publishing a Research Paper" co-curricular workshop. (Fall 2022, Fall 2023)
+        - Designed and co-taught the "Learn Academic Referencing with EndNote/Mendeley" co-curricular workshop. (Spring 2023, Spring 2024)
+    - title: Workshop Instructor
+      institution: K. N. Toosi University of Technology (KNTU)
+      year: 2020
       description: 
-        - Advised Maryam Ahmadi-Nouri on her Master thesis research and writing process
-        - Provided guidance on experimental design, methodology, and data analysis
-        - Conducted regular meetings to review progress and address research challenges
+        - Designed and taught the "Modeling FGMs in Abaqus" co-curricular workshop. (Fall 2017, Spring 2018)
     - title: Teaching Assistant
       institution: K. N. Toosi University of Technology (KNTU)
       department: Advanced Mathematics Course
-      year: 2019 - 2020
+      year: 2017 - 2018
       description:
-        - Conducted weekly recitation sessions for MSc students during office hours
-        - Taught essential MATLAB programming skills to solve complex problems efficiently
-        - Designed and graded course assignments, quizzes, and programming projects
+        - Conducted weekly recitation sessions for over 30 students.
+        - Taught essential MATLAB programming skills to solve complex problems efficiently.
+        - Designed and graded course assignments, and offered additional support during office hours.
 
-- title: Service
+- title: Academic Service
   type: nested_list
   contents:
-    - title: Journal Reviewer
+    - title: Peer Mentor
       items:
-        - Wear (since 2022)
-        - Applied Mathematical Modelling (since 2022)
-        - Applied Surface Science Advances (since 2022)
-        - Physica Scripta (since 2023)
-        - Materials Research Express (since 2023)
-        - Engineering Research Express (since 2023)
-        - Latin American Journal of Solids and Structures (since 2022)
+        - Maryam Ahmadi Nouri (2023 @ MERC), "GZ31 alloy (+Ag)" Project, Provided support in research methodology, academic writing, and adhering to high scientific standards.
+        - Nirvan Hemati (2021 @ MERC), "ZK50-T5 alloy (+RE)" Project, Provided support in academic writing.
+        - Shayan Keshtkar (2020 @ KNTU), "Free vibration of FGM conical shells subjected to flowing fluid", Provided support in research methodology, academic writing, and adhering to high scientific standards.
+
+    - title: Peer Reviewer
+      items:
+        - Wear (5)
+        - Applied Mathematical Modelling (3)
+        - Applied Surface Science Advances (3)
+        - Physica Scripta (2)
+        - Materials Research Express (8)
+        - Engineering Research Express (2)
+        - Latin American Journal of Solids and Structures (5)
 
     - title: Secretary Member, 6th International Conference on Acoustics and Vibration
       items:
@@ -107,21 +121,19 @@
     - year: 2021
       description: Offered direct admission to PhD program in Mechanical Engineering at KNTU
     - year: 2016
-      description: Awarded a full scholarship for the Master’s program at KNTU in the Department of Mechanical Engineering
+      description: Awarded full scholarship for the Master’s program at KNTU in the Department of Mechanical Engineering
     - year: 2016
       description: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
 
 - title: Skills
   type: map
   contents:
-    - name: Experimental
-      value: Metallography, Mechanical Testing, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, FTIR, AFM and Profilometry
-    - name: Programming Languages
-      value: MATLAB, Python, Fortran (user subroutine in ABAQUS)
-    - name: Engineering Softwares
-      value: ABAQUS, SolidWorks, ImageJ
-    - name: General Softwares
-      value: Adobe Photoshop, OriginLab, Inkscape, Microsoft Office, LaTeX
+    - name: Materials Characterization
+      value: Mechanical Testing, Tribo-system Analysis, Metallography, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, OM, FTIR, AFM and Profilometry
+    - name: Software and Programming
+      value: MATLAB, Abaqus, Fortran (user subroutine in Abaqus), Python, SolidWorks, OriginLab, ImageJ
+    - name: General Tools
+      value: Adobe Illustrator and Photoshop, Inkscape, Microsoft Office, LaTeX
 
 - title: Other Interests
   type: list
