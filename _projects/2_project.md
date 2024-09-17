@@ -23,7 +23,7 @@ During my time as an R&D Engineer at *MLC*, I had the privilege of working with 
   .caption {
       margin-top: -10px; /* Adjust this value to control the gap */
       font-size: 14px; /* Optional: to customize the font size */
-      color: #2c3237; /* Change this to any color you'd like (e.g., hex code, rgb, or named color) */
+      color: #565B5F; /* Change this to any color you'd like (e.g., hex code, rgb, or named color) */
       text-align: center; /* Optional: Center the caption */
   }
 </style>
