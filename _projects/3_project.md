@@ -20,7 +20,7 @@ Their findings revealed that alloys with 3 wt.% Ce and 3 wt.% Y, processed with 
 #### My Role:
 To address the unknowns surrounding the friction and wear performance of the developed alloys, I performed a series of tribological experiments using a pin-on-disc (PoD) tribometer. My goal was to assess the friction coefficients, wear rates, and predominant wear mechanisms for ZK60 alloys with Ce and Y additions. The experiments conducted under different load conditions to reveal how these RE elements impacted the alloys' tribological performance in the mild and sever wear regimes.
 
-In addition to experimental works, I also utilized Abaqus software and a user-defined subroutine to develop a finite element model aimed at predicting wear behavior. This 3D model simulated the contact pressure during sliding and used this data as an input for Archard's wear equation, allowing us to estimate wear depth for each alloy composition under specific conditions. The combination of experimental and simulation approaches provided a comprehensive understanding of the tribological behavior of the developed ZK60 alloys.
+In addition to experimental works, I also employed Abaqus software alongside a user-defined subroutine to develop a finite element model aimed at predicting wear behavior. This 3D model simulated the contact pressure generated during sliding, which was then used as an input for Archard’s wear equation to estimate wear depth for each alloy composition under various conditions. By combining experimental results with simulation data, we were able to gain a more comprehensive understanding of the tribological performance of the developed ZK60 alloys.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -35,7 +35,7 @@ In addition to experimental works, I also utilized Abaqus software and a user-de
 </div>
 
 #### Outcomes and Publications:
-The obtained results showed that the wear resistance of extruded ZK60 alloy was improved by adding 3 wt.% of Ce and Y, while the role of Ce addition was more pronounced. Wear rate predictions provided by FE simulation agreed to within 85% of experimental measurments under mild wear regime, but this value was reduced to 75% under severe wear regime.
+The results demonstrated that adding 3 wt.% of Ce and Y to the extruded ZK60 alloy significantly improved its wear resistance, with Ce showing a more pronounced effect. The wear rate predictions from the FE simulations closely matched the experimental data, with an accuracy of up to 85% in the mild wear regime, though this agreement dropped to 75% under severe wear conditions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
@@ -55,10 +55,7 @@ The obtained results showed that the wear resistance of extruded ZK60 alloy was 
   }
 </style>
 
-This project not only broadened my research skills, but also resulted in concrete outcomes. Our research findings were presented at the iMat2019 conference and culminated in the publication of two peer-reviewed journal articles:
-
-- {% cite banijamali2021Ce %}
-- {% cite banijamali2022simulation %}
+This project not only expanded my research skills, but also led to concrete outcomes. Our research findings were presented at the iMat2019 conference and culminated in the publication of two peer-reviewed journal articles:
 
 In addition, I co-authored another article that focused on the work hardening behavior of these developed alloys {% cite najafi2021WH %}.
 <br>
