@@ -5,7 +5,7 @@ permalink: /projects/
 description: 🛠️ Page under construction! (coming soon)
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [research, work]
 horizontal: false
 ---
 
