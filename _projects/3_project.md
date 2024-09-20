@@ -24,10 +24,10 @@ In addition to experimental works, I also employed Abaqus software alongside a u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/ZK60_WearMechanism.jpg" title="Wear Mechanisms" class="img-fluid rounded z-depth-1" mx-auto %}
+        {% include figure.liquid loading="eager" path="assets/img/ZK60_WearMechanism.jpg" title="Wear Mechanisms" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/ZK60_Simulation.jpg" title="PoD Wear Model" class="img-fluid rounded z-depth-1" mx-auto %}
+        {% include figure.liquid loading="eager" path="assets/img/ZK60_Simulation.jpg" title="PoD Wear Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,6 +56,9 @@ The results demonstrated that adding 3 wt.% of Ce and Y to the extruded ZK60 all
 </style>
 
 This project not only expanded my research skills, but also led to concrete outcomes. Our research findings were presented at the iMat2019 conference and culminated in the publication of two peer-reviewed journal articles:
+
+- {% cite banijamali2021Ce %}
+- {% cite banijamali2022simulation %}
 
 In addition, I co-authored another article that focused on the work hardening behavior of these developed alloys {% cite najafi2021WH %}.
 <br>
