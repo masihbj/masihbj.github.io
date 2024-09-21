@@ -93,7 +93,7 @@
     - title: Peer Mentor
       items:
         - Maryam Ahmadi Nouri (2023 @ MERC), "GZ31 alloy (+Ag)" Project, Provided support in research methodology, academic writing, and adhering to high scientific standards.
-        - Nirvan Hemati (2021 @ MERC), "ZK50-T5 alloy (+RE)" Project, Provided support in academic writing.
+        - Nirvan Hemati (2021 @ MERC), "ZK60-T5 alloy (+RE)" Project, Provided support in academic writing.
         - Shayan Keshtkar (2020 @ KNTU), "Free vibration of FGM conical shells subjected to flowing fluid", Provided support in research methodology, academic writing, and adhering to high scientific standards.
 
     - title: Peer Reviewer
@@ -115,21 +115,23 @@
   type: time_table
   contents:
     - year: 2024
-      description: Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course held at MINES Paris - PSL
+      description: Recognized as an Outstanding Alumnus in the <i>Contact Mechanics and Elements of Tribology</i> course at MINES Paris - PSL
     - year: 2024
-      description: Achieved IOP Trusted Reviewer status for peer review excellence
+      description: Achieved IOP Trusted Reviewer Status
     - year: 2021
       description: Offered direct admission to PhD program in Mechanical Engineering at KNTU
     - year: 2016
-      description: Awarded full scholarship for the Master’s program at KNTU in the Department of Mechanical Engineering
+      description: Full Tuition Waiver Scholarship for the Master’s program at KNTU
     - year: 2016
       description: Ranked within the top 3% among 10,000 participants in the University Entrance Exam for the Mechanical Engineering MSc degree
 
 - title: Skills
   type: map
   contents:
+    - name: Fabrication
+      value: Light Alloy Design, Stir Casting, Heat Treatment
     - name: Materials Characterization
-      value: Mechanical Testing, Tribo-system Analysis, Metallography, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, OM, FTIR, AFM and Profilometry
+      value: Mechanical Testing, Tribo-system Analysis, Metallography, Microscopy and Spectroscopy techniques including SEM, EDS, XRD, OM, FTIR, AFM and Surface Profilometry
     - name: Software and Programming
       value: MATLAB, Abaqus, Fortran (user subroutine in Abaqus), Python, SolidWorks, OriginLab, ImageJ
     - name: General Tools
