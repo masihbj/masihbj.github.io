@@ -40,9 +40,9 @@ layout: default
           {% else %}
             {% assign profile_image_long_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture long_image_sizes %}(min-width: {{site.max_width}}) 50vw, (min-width: 576px) 40vw, 80vw{% endcapture %}
+          
           {%
-            include figure.liquid loading="eager" path=profile_image_long_path class=profile_image_long_class sizes=sizes alt=page.profile.image_long cache_bust=true
+            include figure.liquid loading="eager" path=profile_image_long_path style="max-width: 50%; height: auto;" alt=page.profile.image_long cache_bust=true
           %}
         {% endif %}
         <!-- MASIH!!! End of changes -->
@@ -52,7 +52,7 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div style="text-align: justify;" class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
