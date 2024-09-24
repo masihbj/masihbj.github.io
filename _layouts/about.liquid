@@ -40,8 +40,8 @@ layout: default
           {% else %}
             {% assign profile_image_long_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture image_long_sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 20 | times: 0.2}}px, (min-width: 576px)
-      20vw, 80vw"{% endcapture %}
+          {% capture image_long_sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+      30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_long_path class=profile_image_long_class sizes=sizes alt=page.profile.image_long cache_bust=true
           %}
