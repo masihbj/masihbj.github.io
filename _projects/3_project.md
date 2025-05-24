@@ -2,7 +2,7 @@
 layout: page
 title: ZK60 + REE
 description: Expanding Tribological Insights on ZK60 Magnesium Alloys with Rare Earth Element Additions
-img: assets/img/ZK60_Project.jpg
+img: assets/img/ZK60_Project.JPG
 importance: 3
 category: research
 related_publications: true

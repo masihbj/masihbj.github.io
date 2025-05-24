@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My second Master's thesis paper, titled "Vibration Analysis and Critical Speeds of a Rotating Functionally Graded Conical Shell Stiffened with Anisogrid Lattice Structure based on FSDT" was accepted by the journal of *Thin-Walled Structures*!
+My Master's thesis second paper "Vibration Analysis and Critical Speeds of a Rotating Functionally Graded Conical Shell Stiffened with Anisogrid Lattice Structure based on FSDT" was accepted at *Thin-Walled Structures*!

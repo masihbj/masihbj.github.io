@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper entitled "Dry tribological behavior of hot-rolled WE43 magnesium matrix composites reinforced by B4C particles" was accepted by the journal of *Wear*!
+Our paper entitled "Dry tribological behavior of hot-rolled WE43 magnesium matrix composites reinforced by B4C particles" was accepted at *Wear*!

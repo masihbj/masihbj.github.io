@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [amasgroup.github.io](https://amasgroup.github.io/) website is now available! I successfully built and continue to maintain it to promote our research group's research work to prospective students and potential collaborators.
+The official website of the **AMAs Research Group** is now live at [amasgroup.github.io](https://amasgroup.github.io/)! I successfully developed and continue to maintain the site to promote our research to prospective students and potential collaborators.
