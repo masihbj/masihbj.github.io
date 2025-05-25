@@ -2,7 +2,7 @@
 layout: page
 title: WE43 + B4C
 description: Developing a Novel Magnesium Matrix Composite
-img: assets/img/WE43_Project.jpg
+img: assets/img/cover_WE43_Project.jpg
 importance: 2
 category: research
 ---

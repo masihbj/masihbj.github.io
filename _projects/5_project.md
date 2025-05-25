@@ -2,7 +2,7 @@
 layout: page
 title: GZ31 + Ag
 description: Development of GZ31 Magnesium Alloy with Minor Ag Addition
-img: assets/img/GZ31_Project.jpg
+img: assets/img/cover_GZ31_Project.jpg
 importance: 1
 category: research
 ---
