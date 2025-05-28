@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WE43 + B4C
+title: WE43 + B₄C
 description: Developing a New Magnesium Matrix Composite
 img: assets/img/cover_WE43_Project.jpg
 importance: 2
@@ -11,7 +11,7 @@ related_publications: true
 My deep dive into magnesium alloys kicked off with the ZK60+REE project—an exciting introduction to materials science that really got me hooked. That early success gave me the confidence (and curiosity) to take on bigger challenges. It also led to a new chapter in my academic journey: becoming a **Graduate Research Assistant** with the *AMAs Research Group*. That role opened up opportunities to explore even more advanced materials and experimental techniques.
 
 ### The Research Focus:
-Building on that momentum, I began working on a bold new project: developing a magnesium matrix composite that could take lightweight engineering to the next level. The core material? WE43 magnesium alloy, strengthened with different amounts of boron carbide (B₄C) particles. Unlike previous projects where I mostly studied existing alloys, this one asked me to take the wheel for the full ride—from designing and casting the composite to processing, testing, and analyzing it. It was a big leap, but also a great learning experience.
+Building on that momentum, I began working on a bold new project: developing a magnesium matrix composite aimed at improving performance in lightweight engineering applications. The core material? WE43 magnesium alloy, strengthened with different amounts of boron carbide (B₄C) particles. Unlike previous projects where I mostly studied existing alloys, this one asked me to take the wheel for the full ride—from designing and casting the composite to processing, testing, and analyzing it. It was a big leap, but also a great learning experience.
 
 #### My Role:
 My responsibilities spanned the entire development process. I worked on fine-tuning the stir casting technique, figuring out the best heat treatment conditions, and overcoming the complexities of hot rolling magnesium-based composites. On the analysis side, I led extensive testing—everything from optical microscopy and SEM-EDS to XRD and FTIR spectroscopy, plus mechanical tests for hardness, tensile strength, and wear behavior. The goal was to really understand how the B₄C additions and processing steps were affecting the material’s structure and performance.
@@ -29,15 +29,15 @@ My responsibilities spanned the entire development process. I worked on fine-tun
 It was a hands-on, problem-solving experience that pushed me to grow—not just technically, but also in terms of managing the project, staying organized, and working closely with others in the lab.
 
 ### Outcomes and Publications:
-The results were impressive. Adding B₄C particles and applying hot rolling led to major grain refinement in the WE43 matrix, which in turn boosted its performance. We also uncovered some fascinating details in the microstructure. In the hot-rolled matrix alloy without much reinforcement, twinning turned out to be the main deformation mechanism. But when we added more B₄C particles, the behavior shifted—dynamic recrystallization (DRX) took over, playing a key role in refining the structure. 
-Another cool microstructural feature was the uniform, bimodal distribution of the B4C particles in the matrix. This happened thanks to fragmentation of the coarse reinforcements during the rolling process, resulting in a well-dispersed mix of particle sizes. That kind of distribution is especially useful for balancing strength and ductility—always a great combo in structural materials.
+The results were impressive. Adding B₄C particles and applying hot rolling led to major grain refinement in the WE43 matrix, which in turn boosted its performance. We also uncovered some fascinating details in the microstructure. In the hot-rolled matrix alloy without much reinforcement, *twinning* turned out to be the main deformation mechanism. But when we added more B₄C particles, the behavior shifted—*dynamic recrystallization (DRX)* took over, playing a key role in refining the structure. 
+Another cool microstructural feature was the uniform, *bimodal distribution* of the B₄C particles in the matrix. This happened thanks to fragmentation of the coarse reinforcements during the rolling process, resulting in a well-dispersed mix of particle sizes. That kind of distribution is especially useful for balancing strength and ductility—always a great combo in structural materials.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.liquid loading="eager" path="assets/img/WE43_Microstructure.jpg" title="Microstructure" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/WE43_Distribution.jpg" title="B4C Distribution" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WE43_Distribution.jpg" title="B₄C Distribution" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
