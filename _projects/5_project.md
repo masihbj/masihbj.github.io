@@ -5,6 +5,7 @@ description: Development of GZ31 Magnesium Alloy with Minor Ag Addition
 img: assets/img/cover_GZ31_Project.jpg
 importance: 1
 category: research
+related_publications: true
 ---
 
 This project is dedicated to ***Maryam Ahmadi-Nouri***, a talented student from our AMAs Research Group, who recently completed her thesis defense. It was my pleasure to serve as her mentor throughout this research journey.
