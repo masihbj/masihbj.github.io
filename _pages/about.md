@@ -6,9 +6,9 @@ subtitle: Mechanical Engineer | Graduate Researcher
 
 profile:
   align: right
-  image: Masih1.jpg
+  image: Masih2.jpg
   image_long:
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: 
 
 news: true # includes a list of news items
